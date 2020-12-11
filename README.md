@@ -1,8 +1,7 @@
 # Stmux
-[![GitHub Release](https://img.shields.io/github/release/zjayers/stmux.svg?style=flat)]()
-[![GitHub pull requests](https://img.shields.io/github/issues-pr/zjayers/stmux.svg?style=flat)]()
+[![GitHub Release](https://img.shields.io/github/release/zjayers/stmux.svg?style=flat)](https://github.com/zjayers/stmux/releases)
+[![GitHub pull requests](https://img.shields.io/github/issues-pr/zjayers/stmux.svg?style=flat)](https://github.com/zjayers/stmux/pulls)
 [![Issues](https://img.shields.io/github/issues-raw/zjayers/stmux.svg?maxAge=25000)](https://github.com/zjayers/stmux/issues)
-[![MIT License](https://img.shields.io/apm/l/atomic-ui.svg?)](https://github.com/zjayers/stmux/blob/master/LICENSEs)
 
 ## Description
 
